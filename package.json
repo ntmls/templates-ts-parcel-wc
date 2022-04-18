@@ -1,0 +1,16 @@
+{
+  "name": "templates-ts-parcel-wc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "check": "tsc --noEmit"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.3.1",
+    "typescript": "^4.5.4"
+  }
+}
